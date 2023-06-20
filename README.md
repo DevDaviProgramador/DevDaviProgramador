@@ -1,5 +1,7 @@
 > Oi! Meu nome é Davi Ortacio, tenho 15 anos e moro no Brasil. Gosto de karatê e também de jogar videogame.🥋🎮
 
+## Estatísticas
+
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight)
 
 ### Contatos
