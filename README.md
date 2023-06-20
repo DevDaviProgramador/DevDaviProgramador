@@ -5,9 +5,7 @@
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight)
 
 ## Estudando:
-<img src="https://img.shields.io/badge/HTML-1419A3?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1419A3?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-1419A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/HTML-1419A3?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS-1419A3?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-1419A3?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/Node.js-1419A3?style=for-the-badge&logo=node.js&logoColor=white">
 
 ## Contatos
