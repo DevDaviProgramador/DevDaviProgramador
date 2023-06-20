@@ -8,6 +8,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight" alt="Davi GitHub stats" width="500">
 
+<img src="https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight" alt="Davi GitHub stats" style="width: 600px;">
+
 ## 📚 Estudando:
 
 <div>
