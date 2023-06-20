@@ -1,4 +1,4 @@
-Oi! Meu nome é Davi Rodrigues, tenho 15 anos e moro no Brasil. Gosto de karatê e também de jogar videogame.🥋🎮
+Oi! Meu nome é Davi Ortacio, tenho 15 anos e moro no Brasil. Gosto de karatê e também de jogar videogame.🥋🎮
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=radical)
 
