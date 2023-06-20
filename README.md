@@ -16,6 +16,6 @@
 <h2 align="center"> Contato <width="24px"></h2>
 
 <div aling="center">
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daviortacio/)
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-rodrigues-de-oliveira-ortacio-dos-santos-99b935259/)
+<a href="https://www.instagram.com/daviortacio/><img src="https:img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/davi-rodrigues-de-oliveira-ortacio-dos-santos-99b935259/><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
