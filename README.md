@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=180&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Rodrigues+de+Oliveira+Ortacio+dos+Santos;Eu+tenho+15+anos;Eu+sou+de+Novo+Hamburgo;Eu+estudo+programação+front+End;Seja+Bem-vindo!)](https://git.io/typing-svg)🥋🎮
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Ortacio;Eu+tenho+15+anos;Eu+sou+de+Novo+Hamburgo+RS;Eu+estudo+programação+front+End+no+Instituto+Evoluir;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 ## Estatísticas
 
