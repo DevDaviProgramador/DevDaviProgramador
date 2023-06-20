@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=180&section=header"/>
+
 > Oi! Meu nome é Davi Ortacio, tenho 15 anos e moro no Brasil. Gosto de karatê e também de jogar videogame.🥋🎮
 
 ## Estatísticas
