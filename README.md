@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Ortacio;Eu+tenho+15+anos;Eu+sou+de+Novo+Hamburgo+RS;estudo+programação+Front+End+pelo+Instituto+Evoluir;Seja+Bem-vindo!+👋)](https://git.io/typing-svg)
-
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E0FFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Ortacio;Eu+tenho+15+anos;Eu+sou+de+Novo+Hamburgo+RS;estudo+programação+Front+End+pelo+Instituto+Evoluir;Seja+Bem-vindo!+👋)](https://git.io/typing-svg)
 
 ## 📊 Estatísticas
 
