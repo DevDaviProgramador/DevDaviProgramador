@@ -24,7 +24,6 @@
 <a href="https://www.instagram.com/daviortacio/"><img src="https://img.shields.io/badge/Instagram-1419A3?style=for-the-badge&logo=instagram&logoColor=white"></a>
  </div>
 
-## O MARAVILHOSO vício que come meu tempo. 🟡◽◽◽◽⏳
 ![Snake animation](https://github.com/VictordRoma/VictordRoma/blob/output/github-contribution-grid-snake.svg)
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1419A3&height=120&section=footer"/>
