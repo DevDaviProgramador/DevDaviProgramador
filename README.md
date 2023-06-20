@@ -6,7 +6,10 @@
 
 ## 📊 Estatísticas
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight)
+<div style="width: 500px">
+    ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight)
+</div>
+
 
 ## 📚 Estudando:
 
