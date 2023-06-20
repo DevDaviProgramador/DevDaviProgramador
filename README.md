@@ -4,11 +4,11 @@
 
 ![223e6792880429 5e569ff84ebef](https://user-images.githubusercontent.com/99426565/173877723-72070181-d006-4773-9296-a96066814f04.gif)
 
-## Estatísticas
+## 📊 Estatísticas
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDaviProgramador&show_icons=true&theme=tokyonight)
 
-## Estudando:
+## 📚 Estudando:
 
 <div>
 <img src="https://img.shields.io/badge/HTML-1419A3?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Node.js-1419A3?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-<h2 align="center"> Contato <width="24px"></h2>
+<h2 align="center"> Contato 📞 <width="24px"></h2>
 
 <div aling="center">
 <a href="https://www.linkedin.com/in/davi-rodrigues-de-oliveira-ortacio-dos-santos-99b935259/"><img src="https://img.shields.io/badge/LinkedIn-1419A3?style=for-the-badge&logo=linkedin&logoColor=white"></a>
